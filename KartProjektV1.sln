@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KartProjektV1", "KartProjektV1\KartProjektV1.pyproj", "{CD169A5B-694F-4887-8337-C7BE4499AEA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD169A5B-694F-4887-8337-C7BE4499AEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD169A5B-694F-4887-8337-C7BE4499AEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC759CFC-9022-4092-84B4-4DA727342AD4}
+	EndGlobalSection
+EndGlobal
